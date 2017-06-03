@@ -42,7 +42,7 @@
 21 silly publish   engines: { node: '*' },
 21 silly publish   readme: 'biyahui',
 21 silly publish   readmeFilename: 'README.md',
-21 silly publish   gitHead: '5a2697e4db3b80f0d04c419dfe3e70cdb4b945f8',
+21 silly publish   gitHead: '7431b58f1183eed6041eb6dc35048a88b696e680',
 21 silly publish   _id: 'censorify@0.1.1',
 21 silly publish   scripts: {},
 21 silly publish   _shasum: '72d4e98dc2507b1926913b33c425e59989a58a4c',
@@ -64,22 +64,22 @@
 29 silly publish uploading C:\Users\biyahui\AppData\Roaming\npm-cache\censorify\0.1.1\package.tgz
 30 verbose request uri https://registry.npmjs.org/censorify
 31 verbose request sending authorization for write operation
-32 info attempt registry request try #1 at 10:53:28
+32 info attempt registry request try #1 at 11:15:16
 33 verbose request using bearer token for auth
-34 verbose request id d3a9a4ca27f29303
+34 verbose request id 8a596d903c5b8eeb
 35 http request PUT https://registry.npmjs.org/censorify
 36 http 403 https://registry.npmjs.org/censorify
 37 verbose headers { 'content-type': 'application/json',
 37 verbose headers   'cache-control': 'max-age=300',
 37 verbose headers   'content-length': '103',
 37 verbose headers   'accept-ranges': 'bytes',
-37 verbose headers   date: 'Sat, 03 Jun 2017 02:53:28 GMT',
+37 verbose headers   date: 'Sat, 03 Jun 2017 03:15:16 GMT',
 37 verbose headers   via: '1.1 varnish',
 37 verbose headers   connection: 'keep-alive',
-37 verbose headers   'x-served-by': 'cache-nrt6133-NRT',
+37 verbose headers   'x-served-by': 'cache-nrt6131-NRT',
 37 verbose headers   'x-cache': 'MISS',
 37 verbose headers   'x-cache-hits': '0',
-37 verbose headers   'x-timer': 'S1496458408.961743,VS0,VE455',
+37 verbose headers   'x-timer': 'S1496459716.953356,VS0,VE466',
 37 verbose headers   vary: 'Accept-Encoding' }
 38 verbose request invalidating C:\Users\biyahui\AppData\Roaming\npm-cache\registry.npmjs.org\censorify on PUT
 39 error publish Failed PUT 403
